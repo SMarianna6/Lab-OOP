@@ -1,0 +1,3 @@
+deae33d3-3531-48a5-b169-12d645cf15a0, ph@gmail.com, Mr.Philipp, 01/01/2000, Male, +380000000000,
+b0a560ca-f9a4-4a0c-be86-504d74e21413, gr@gmail.com, Mr.Grey, 04/04/2004, Male, +380680000000, 
+24c50a88-52d4-4a78-ae5e-a9a860b9da06, gh@gmail.com, Mr.Gh, 02/02/2000, Male, +380,123
